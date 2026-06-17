@@ -75,12 +75,6 @@ Développement web · Mobile · Bases de données · Réseaux · Déploiement
 
 ---
 
-## 📊 Stats GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=DjenabouDiallo&show_icons=true&theme=default&hide_border=true&title_color=7C3AED&icon_color=7C3AED)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
