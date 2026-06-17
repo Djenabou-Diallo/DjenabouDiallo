@@ -1,7 +1,8 @@
 # Salut, moi c'est Djenabou 👋
 
-Étudiante en **Techniques de l'informatique** à l'Institut Grasset (DEC — hiver 2027).
-Je développe des applications web, mobiles et back-end. Disponible pour un **stage en développement à Montréal**.
+Étudiante en **Techniques de l'informatique** à l'Institut Grasset.
+Je développe des applications web, mobiles et back-end.
+🔍 À la recherche d'un **stage en développement — automne 2026** à Montréal.
 
 ---
 
@@ -68,9 +69,15 @@ Je développe des applications web, mobiles et back-end. Disponible pour un **st
 
 ## 🎓 Formation
 
-**DEC — Techniques de l'informatique** · Institut Grasset  
+**DEC — Techniques de l'informatique** · Institut Grasset · Montréal  
 Développement web · Mobile · Bases de données · Réseaux · Déploiement  
-*(Diplôme prévu : hiver 2027)*
+*(Diplôme prévu : décembre 2026)*
+
+---
+
+## 📊 Stats GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=DjenabouDiallo&show_icons=true&theme=default&hide_border=true&title_color=7C3AED&icon_color=7C3AED)
 
 ---
 
